@@ -1,6 +1,7 @@
 # Delta
 A Discord Js Bot made for fun commands,shortcuts,moderations
-#To-Do
+
+# To-Do
 - [x] Kick
 - [x] Ban
 - [x] Info
