@@ -9,6 +9,5 @@ A Discord Js Bot made for fun commands,shortcuts,moderations
 - [x] Mute
 - [x] Ping
 - [x] Purge
-- [ ] Warn
 - [ ] User Info
 - [ ] Set User
