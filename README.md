@@ -6,8 +6,11 @@ A Discord Js Bot made for fun commands,shortcuts,moderations
 - [x] Ban
 - [x] Info
 - [x] Invite
-- [x] Mute
 - [x] Ping
 - [x] Purge
-- [ ] User Info
-- [ ] Set User
+- [x] 8Ball
+- [x] Guilds
+- [x] Calculate / math
+- [x] Reverse
+- [x] Tiny Text
+- [x] Server Info
